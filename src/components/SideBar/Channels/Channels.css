@@ -1,0 +1,11 @@
+.ui.menu .item{
+    color: white !important;
+}
+
+.clickAble:hover{
+    cursor: pointer;
+}
+
+.ui.menu .item.active{
+    background: black !important;
+}
